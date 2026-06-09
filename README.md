@@ -1,4 +1,4 @@
-# Sliding Puzzle
+# Sliding N_Puzzle
 
 ## 1. 安裝必要套件
 
@@ -84,6 +84,8 @@ gcc sliding_puzzle.c tinyfiledialogs.c -o puzzle \
 * `<`：回到前一步
 * `>`：執行下一步
 * `AUTO`：自動播放完整解答
+
+!如要切回手動遊玩模式請記得再點擊一次Auto Solve按鈕
 
 ---
 
